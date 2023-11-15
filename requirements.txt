@@ -1,6 +1,0 @@
-matplotlib
-torchvision
-torch
-pillow
-tqdm
-torchinfo
