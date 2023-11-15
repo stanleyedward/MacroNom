@@ -1,0 +1,4 @@
+models/models/vitb16_food101_4epochs.pt
+models/      
+pytorch_modules/*     
+runs/                                                                                                                           
